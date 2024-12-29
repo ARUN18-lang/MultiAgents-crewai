@@ -9,12 +9,9 @@ This project is a Streamlit-based web application for content planning and revie
 - **Content Editing**: Proofread and edit content for grammatical errors and alignment with the brand's voice.
 
 ## Installation
+1. clone this repo
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/
-
-2. Create a virtual environment and activate it:
+3. Create a virtual environment and activate it:
 
 python -m venv .venv
 .venv\Scripts\activate  # On Windows
